@@ -42,7 +42,7 @@ Tại mục **OpenAI API Key**, thực hiện các thao tác sau:
     ```
 3.  Nhấn nút `+` bên cạnh hoặc phím `Enter` để thêm model vào danh sách.
 
-![Ảnh chụp hành động nhập tên model và nhấn nút thêm](images/step5_add_custom_model.png)
+![Ảnh chụp hành động nhập tên model và nhấn nút thêm](b3.png)
 
 ---
 
