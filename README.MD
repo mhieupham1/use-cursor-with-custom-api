@@ -30,7 +30,7 @@ Tại mục **OpenAI API Key**, thực hiện các thao tác sau:
 
 > **Lưu ý:** Đảm bảo URL chính xác theo yêu cầu của nhà cung cấp dịch vụ.
 
-![Ảnh chụp mục OpenAI API Key đã nhập Key và bật Override Base URL](images/step4_api_config.png)
+![Ảnh chụp mục OpenAI API Key đã nhập Key và bật Override Base URL](b2.png)
 
 ---
 
