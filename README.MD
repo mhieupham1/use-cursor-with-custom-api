@@ -12,7 +12,7 @@ Khởi động ứng dụng Cursor trên máy tính của bạn.
 ### Bước 2: Truy cập Cài đặt (Settings)
 Tại giao diện chính, nhấn vào biểu tượng bánh răng **(Settings)** ở góc trên bên phải (hoặc góc dưới bên trái tùy phiên bản), hoặc sử dụng phím tắt `Ctrl + ,` (Windows) / `Cmd + ,` (Mac).
 
-<img src="./demo.gif" />
+![Ảnh chụp màn hình cửa sổ Settings với tab Models được chọn](b1.png)
 
 ---
 
