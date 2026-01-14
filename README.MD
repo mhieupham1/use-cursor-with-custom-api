@@ -48,3 +48,5 @@ Tại mục **OpenAI API Key**, thực hiện các thao tác sau:
 
 ## Kiểm tra kết quả
 Sau khi thêm xong, hãy quay lại giao diện soạn thảo (Cmd+K hoặc Cmd+L), mở menu chọn Model và tìm kiếm `gemini-claude-sonnet-4-5-thinking`. Nếu model xuất hiện và phản hồi, bạn đã cấu hình thành công!
+
+![Thành công](Screenshot 2026-01-14 at 14.12.31.png)
